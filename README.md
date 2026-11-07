@@ -4,7 +4,7 @@
 | Andrew Cruz  | feature/ANDREW|Iluminación ambiental, objeto interactivo,bosque|
 |Brenda Rojas  |Brenda         |Acertijo con botones                            |
 |Alan Moreno   |alanrama       |Abrir puertas                                   |
-|Lauren Sanchez|               |Coleccionable, linterna y  notas                |
+|Lauren Sanchez|feature/LAUREN |Coleccionable, linterna y  notas                |
 
 
 ¿Cómo abrir y probar el nivel?
