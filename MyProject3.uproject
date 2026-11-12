@@ -34,14 +34,6 @@
 				"Android",
 				"Linux"
 			]
-		},
-		{
-			"Name": "Aura",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac"
-			]
 		}
 	],
 	"TargetPlatforms": [
